@@ -1,0 +1,31 @@
+body {
+    font-family: "Arial";
+    background-color: black;
+    background-image: url('https://i.giphy.com/12hjJ7tjzvlQ08.webp')
+
+  }
+  h1 {
+    color: white;
+    font-size: 80px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+  }
+  h2 {
+    color: white;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+  img{
+    border: 3px solid gray;
+  }
+  .container {
+    position: relative;
+  }
+  .center {
+    position: absolute;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
